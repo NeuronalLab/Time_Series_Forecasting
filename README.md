@@ -7,6 +7,6 @@ XGboost:
 HoltWinters:
 ![image](https://github.com/NeuronalLab/Time_Series_Forecasting/assets/135448227/fe6b0687-b728-47b0-9536-dbf4322aa4a3)
 
-FacebookWinter:
+Facebook Prothpet:
 ![image](https://github.com/NeuronalLab/Time_Series_Forecasting/assets/135448227/fbf407d8-a46f-4ddb-85bd-ed2077ab65da)
 
